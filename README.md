@@ -47,3 +47,8 @@ HTML, CSS, vanilla JavaScript, face-api.js 0.22.2, GitHub Pages.
 ## License
 
 MIT.
+
+
+## V3 backend preview
+
+The V3 work is being developed on the `feature/proctorguard-v3` branch so the stable V2 app remains unchanged. See [V3-README.md](V3-README.md) for API setup, environment variables, question-bank schema, and endpoints. The V3 interface is [v3.html](v3.html); it requires a separately hosted Node.js API and a reviewed 180-question bank. GitHub Pages alone cannot host the backend. Do not use this preview for high-stakes examinations until the security, accessibility, privacy, backup, and deployment reviews are complete.
